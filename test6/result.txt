@@ -1,0 +1,4 @@
+- C = A ∩ B
++ C = A U B
+- C = A \ B
+- C = B \ A
